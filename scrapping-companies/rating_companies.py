@@ -3,7 +3,7 @@ from google import genai
 import time
 # --- Configuration ---
 # It's recommended to use an environment variable for security.
-API_KEY = "AIzaSyD9RbJbZdNanc-vk-FKycthnZBeLc-SfOI" 
+API_KEY = "API KEYS" 
 INPUT_FILE = './extracted_companies.xlsx'
 OUTPUT_FILE = 'company_ratings.xlsx'
 COMPANY_COLUMN_NAME = 'Company Name'
